@@ -3,10 +3,10 @@ navname: Flynn Ji's Blog
 
 # navigatior items
 nav:
-  Posts: /archives
-  Categories: /category
-  Tags: /tag
-  About: /about
+  文章: /archives
+  目录: /category
+  标签: /tag
+  关于: /about
 
 # favicon
 favicon: /favicon.ico
@@ -81,7 +81,7 @@ page_title_enable: true
 ## Hexo uses Moment.js to parse and display date
 ## You can customize the date format as defined in
 ## http://momentjs.com/docs/#/displaying/format/
-date_format: MMMM D, YYYY
+date_format: YYYY-MM-DD 
 time_format: H:mm:ss
 
 # stylesheets loaded in the <head>
